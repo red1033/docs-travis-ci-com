@@ -19,9 +19,9 @@ GIT
 
 GIT
   remote: https://github.com/travis-ci/dpl
-  revision: d64f2644207666a56e39c071f3a9d26b7e56b2ab
+  revision: d6b31d4d2bd5a6adbb2935d28ed4c0e3636250a6
   specs:
-    dpl (2.0.0.alpha.9)
+    dpl (2.0.0.alpha.14)
       cl (~> 1.0)
 
 GEM
@@ -191,7 +191,7 @@ GEM
     rdiscount (2.2.0.1)
     redcarpet (3.4.0)
     ref (2.0.0)
-    regstry (1.0.14)
+    regstry (1.0.15)
     rouge (2.2.1)
     rubocop (0.57.2)
       jaro_winkler (~> 1.5.1)
