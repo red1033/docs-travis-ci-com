@@ -19,9 +19,9 @@ GIT
 
 GIT
   remote: https://github.com/travis-ci/dpl
-  revision: 91e405cdf2b45ee692787d81d09cb887c2d2ae19
+  revision: 2d9d28f914c27356e282101b3ef9ef8446ef711e
   specs:
-    dpl (2.0.0.beta.1)
+    dpl (2.0.0.beta.2)
       cl (~> 1.0)
 
 GEM
