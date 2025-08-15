@@ -227,7 +227,7 @@ GEM
     therubyracer (0.12.3)
       libv8 (~> 3.16.14.15)
       ref
-    thor (1.0.1)
+    thor (1.4.0)
     thread_safe (0.3.6)
     tilt (1.4.1)
     typhoeus (1.4.0)
